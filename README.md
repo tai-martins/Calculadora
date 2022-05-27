@@ -1,5 +1,7 @@
 # Calculadora 
 
+[![CalculadoraCI](https://github.com/tai-martins/Calculadora/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/tai-martins/Calculadora/actions/workflows/maven-publish.yml)
+
 ## Esse projeto foi desenvolvido na Disciplina de Engenharia de Software com o intuito de praticar os aprendizados sobre testes unitários, CI, entre outros. 
 
 ### Desenvolvido por:woman:
