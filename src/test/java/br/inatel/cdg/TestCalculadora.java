@@ -18,7 +18,6 @@ public class TestCalculadora {
         int res = calc.adicao(10,1);
         assertEquals(11, res);
     }
-
     @Test
     public void testeSubtrair() {
         int res = calc.subtracao(8,5);
