@@ -11,6 +11,9 @@ Para elaboração  do projeto foi utilizada a linguagem JAVA,  e o Framwork JUni
 
 
 ### Instalação :
-Para utilização da linguagem JAVA é necessário instalar o JDK que pode ser obtido através do site  https://www.java.com/pt-BR/download/manual.jsp as instruções para instalação também se encontram neste link. 
+Para utilização da linguagem JAVA é necessário instalar o JDK que pode ser obtido através do site https://www.java.com/pt-BR/download/manual.jsp as instruções para instalação também se encontram neste link. 
 
 O Framwork JUnit pode ser obtido 
+
+### Execução :
+
