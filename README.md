@@ -5,3 +5,10 @@
 ### Desenvolvido por:woman:
 
 Tainara de Cássia Martins
+
+### Ferramentas 💻
+Para elaboração  do projeto foi utilizada a linguagem JAVA,  e o Framwork JUnit
+
+
+### Instalação :
+Para instalar 
